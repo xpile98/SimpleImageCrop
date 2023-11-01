@@ -9,6 +9,14 @@
 <img width="500" alt="image" src="https://github.com/xpile98/SimpleImageCrop/assets/19896491/9e4f5f1d-6643-48ac-a53c-3e488b289406">
 
 
+## 다운로드
+
+https://github.com/xpile98/SimpleImageCrop/blob/main/dist/SimpleImageCrop.exe
+
+위 경로에 들어가서 프로그램을 다운받아주세요 ^^
+
+![image](https://github.com/xpile98/SimpleImageCrop/assets/19896491/912b83d8-b802-48da-8701-0893224147ac)
+
 
 ## 기능 설명
 
